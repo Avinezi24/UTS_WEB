@@ -28,7 +28,7 @@
             <td class="td"><input type="text" name="discount" placeholder="discount"/></td>
         </tr>
     </table>
-    <input type="submit" name="sub" placeholder="submit"class="sub"/>
+
 
 
       <section class="penjualan">
